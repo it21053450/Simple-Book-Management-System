@@ -26,18 +26,7 @@ To create a simple and intuitive application where users can:
 
 ## 🧱 Project Structure
 
-/enhanzer<br>
-│<br>
-├── frontend/ # Angular app<br>
-│ ├── src/<br>
-│ └── ...<br>
-│<br>
-├── backend/ # ASP.NET API<br>
-│ ├── Controllers/<br>
-│ ├── Models/<br>
-│ └── ...<br>
-│<br>
-└── README.md<br>
+<pre> ``` /enhanzer │ ├── frontend/ # Angular app │ ├── src/ │ └── ... │ ├── backend/ # ASP.NET API │ ├── Controllers/ │ ├── Models/ │ └── ... │ └── README.md ``` </pre>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
