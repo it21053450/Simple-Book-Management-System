@@ -78,7 +78,7 @@ To create a simple and intuitive application where users can:
 - `ng serve` <br>
 -The Frontend will start on: http://localhost:4200/ <br>
 
-🧪 Sample Book JSON
+### 🧪 Sample Book JSON
 
 {<br>
   "id": 1,<br>
@@ -88,13 +88,13 @@ To create a simple and intuitive application where users can:
   "publicationDate": "2008-08-11"<br>
 }<br>
 
-📌 Future Improvements
+### 📌 Future Improvements
 - Integrate a database like SQL Server or MongoDB
 - Add search and pagination
 - Implement user authentication
 - Enhance UI with Angular Material
 
-💡 Author
+### 💡 Author
 
 👨‍💻 Oditha Chamika Bandara Herath<br>
 📘 GitHub | 🎓 SLIIT<be>
