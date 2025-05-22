@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Simple-Book-Management-System
-=======
 # 📚 Simple Book Management System
 
 A full-stack web application that allows users to manage a collection of books — built with **Angular** on the frontend and **ASP.NET (C#)** on the backend.
@@ -74,14 +71,14 @@ To create a simple and intuitive application where users can:
 - `dotnet run` <br>
 -The backend will start on: http://localhost:5011/api/books <br>
 
-###🎨 Frontend (Angular)
+### 🎨 Frontend (Angular)
 
 - `cd BookFrontend`
 - `npm install`
 - `ng serve` <br>
 -The Frontend will start on: http://localhost:4200/ <br>
 
-🧪 Sample Book JSON
+### 🧪 Sample Book JSON
 
 {<br>
   "id": 1,<br>
@@ -91,19 +88,17 @@ To create a simple and intuitive application where users can:
   "publicationDate": "2008-08-11"<br>
 }<br>
 
-📌 Future Improvements
+### 📌 Future Improvements
 - Integrate a database like SQL Server or MongoDB
 - Add search and pagination
 - Implement user authentication
 - Enhance UI with Angular Material
 
-💡 Author
+### 💡 Author
 
 👨‍💻 Oditha Chamika Bandara Herath<br>
-📘 GitHub | 🎓 SLIIT<br>
+📘 GitHub | 🎓 SLIIT<be>
 
+![Home Page](./screenshots/home-page.png)<br>
+![Add Book](./screenshots/add-book.png) <be>
 
-
-
-
->>>>>>> a883dddabc90524cbc2632bde1bf437de3483bab
