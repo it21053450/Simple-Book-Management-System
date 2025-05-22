@@ -71,7 +71,7 @@ To create a simple and intuitive application where users can:
 - `dotnet run` <br>
 -The backend will start on: http://localhost:5011/api/books <br>
 
-###🎨 Frontend (Angular)
+### 📦 Frontend (Angular)
 
 - `cd BookFrontend`
 - `npm install`
