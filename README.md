@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Simple-Book-Management-System
 =======
 # 📚 Simple Book Management System
@@ -100,7 +100,10 @@ To create a simple and intuitive application where users can:
 💡 Author
 
 👨‍💻 Oditha Chamika Bandara Herath<br>
-📘 GitHub | 🎓 SLIIT<br>
+📘 GitHub | 🎓 SLIIT<be>
+
+[Home Page](./screenshots/Screenshot 2025-05-22 222135.png)
+![Add Book](./screenshots/Screenshot 2025-05-22 222231.png)
 
 
 
