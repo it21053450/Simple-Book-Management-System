@@ -1,6 +1,3 @@
-
-# Simple-Book-Management-System
-=======
 # 📚 Simple Book Management System
 
 A full-stack web application that allows users to manage a collection of books — built with **Angular** on the frontend and **ASP.NET (C#)** on the backend.
@@ -102,8 +99,9 @@ To create a simple and intuitive application where users can:
 👨‍💻 Oditha Chamika Bandara Herath<br>
 📘 GitHub | 🎓 SLIIT<be>
 
-[Home Page](./screenshots/Screenshot 2025-05-22 222135.png)
-![Add Book](./screenshots/Screenshot 2025-05-22 222231.png)
+![Home Page]("screenshots/Screenshot 2025-05-22 222135.png")
+![Add Book]("screenshots/Screenshot 2025-05-22 222231.png")
+
 
 
 
