@@ -99,12 +99,6 @@ To create a simple and intuitive application where users can:
 👨‍💻 Oditha Chamika Bandara Herath<br>
 📘 GitHub | 🎓 SLIIT<be>
 
-![Home Page]("screenshots/Screenshot 2025-05-22 222135.png")
-![Add Book]("screenshots/Screenshot 2025-05-22 222231.png")
+![Home Page](./screenshots/home-page.png)<br>
+![Add Book](./screenshots/add-book.png) <be>
 
-
-
-
-
-
->>>>>>> a883dddabc90524cbc2632bde1bf437de3483bab
