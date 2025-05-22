@@ -26,18 +26,18 @@ To create a simple and intuitive application where users can:
 
 ## 🧱 Project Structure
 
-/enhanzer
-│
-├── frontend/ # Angular app
-│ ├── src/
-│ └── ...
-│
-├── backend/ # ASP.NET API
-│ ├── Controllers/
-│ ├── Models/
-│ └── ...
-│
-└── README.md
+/enhanzer<br>
+│<br>
+├── frontend/ # Angular app<br>
+│ ├── src/<br>
+│ └── ...<br>
+│<br>
+├── backend/ # ASP.NET API<br>
+│ ├── Controllers/<br>
+│ ├── Models/<br>
+│ └── ...<br>
+│<br>
+└── README.md<br>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -66,14 +66,14 @@ To create a simple and intuitive application where users can:
 
 ### 📦 Backend (ASP.NET)
 
-`cd backend
+`cd BookApi
 dotnet build
 dotnet run`
 The backend will start on: http://localhost:5011/api/books
 
 ###🎨 Frontend (Angular)
 
-`cd frontend
+`cd BookFrontend
 npm install
 ng serve`
 The Frontend will start on: http://localhost:4200/
