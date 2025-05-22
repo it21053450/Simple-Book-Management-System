@@ -66,37 +66,38 @@ To create a simple and intuitive application where users can:
 
 ### 📦 Backend (ASP.NET)
 
-`cd BookApi
-dotnet build
-dotnet run`
-The backend will start on: http://localhost:5011/api/books
+- `cd BookApi`
+- `dotnet build`
+- `dotnet run`
+-The backend will start on: http://localhost:5011/api/books
 
 ###🎨 Frontend (Angular)
 
-`cd BookFrontend
-npm install
-ng serve`
+- `cd BookFrontend`
+- `npm install`
+- `ng serve`
 The Frontend will start on: http://localhost:4200/
 
 🧪 Sample Book JSON
 
-`{
-  "id": 1,
-  "title": "Clean Code",
-  "author": "Robert C. Martin",
-  "isbn": "9780132350884",
-  "publicationDate": "2008-08-11"
-}`
+`{<br>
+  "id": 1,<br>
+  "title": "Clean Code",<br>
+  "author": "Robert C. Martin",<br>
+  "isbn": "9780132350884",<br>
+  "publicationDate": "2008-08-11"<br>
+}`<br>
 
 📌 Future Improvements
-Integrate a database like SQL Server or MongoDB
-Add search and pagination
-Implement user authentication
-Enhance UI with Angular Material
+- Integrate a database like SQL Server or MongoDB
+- Add search and pagination
+- Implement user authentication
+- Enhance UI with Angular Material
 
 💡 Author
-👨‍💻 Oditha Chamika Bandara Herath
-📘 GitHub | 🎓 SLIIT
+
+👨‍💻 Oditha Chamika Bandara Herath<br>
+📘 GitHub | 🎓 SLIIT<br>
 
 
 
