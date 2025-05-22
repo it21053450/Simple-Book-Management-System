@@ -1,0 +1,8 @@
+<form (ngSubmit)="saveBook()">
+    <input [(ngModel)]="book.title" name="title" placeholder="Title" required />
+    <input [(ngModel)]="book.author" name="author" placeholder="Author" required />
+    <input [(ngModel)]="book.isbn" name="isbn" placeholder="ISBN" required />
+    <input [(ngModel)]="book.publicationDate" name="publicationDate" type="date" required />
+    <button type="submit">{{ isEdit ? 'Update' : 'Add' }} Book</button>
+  </form>
+  
